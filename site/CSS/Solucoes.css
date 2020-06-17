@@ -1,0 +1,110 @@
+*{
+    padding: 0;
+    border: 0;  
+    right: 0;
+    margin:0;
+    text-decoration: none;
+}
+
+.principal1{
+    margin-top: 80px;
+    width: 90%;
+    margin-right: 10%;
+    height: 330px;
+}
+
+.divprincipal1{
+    width: 400px;
+    padding-top: 100px;
+    margin-left: 10%;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    background-size: 100%;
+    height: 300px;
+    background-position-x: center;
+    animation-iteration-count: 1;
+    animation-duration: 3s;
+}
+
+.divprincipal1 label{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px;
+}
+
+.principal2{
+    margin-top: 80px;
+    width: 90%;
+    margin-left: 10%;
+    height: 420px;
+}
+.divprincipal2{
+    width: 430px;
+    padding-top: 100px;
+    margin-right: 7%;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    background-size: 100%;
+    height: 400px;
+    background-position-x: center;
+    float: right;
+    animation-iteration-count: 1;
+    animation-duration: 3s;
+}
+.divprincipal2 label{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    float: left;
+    
+}
+.principal1{
+    float: right;
+    background-image: url("../Imagens/colegasHome.jpg");
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position-x: right;
+
+}
+.principal2{
+    float: right;
+    background-image: url("../Imagens/startup.svg");
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position-x: left;
+
+}
+.divDash{
+    width: 75%;
+    margin-left: 10%;
+    display: inline-table;
+}
+.dash1{
+    margin-top: 30px;
+    width: 500px;
+    float: left;
+}
+.dash1 img{
+    width: 450px;
+    float: left;
+}
+.dash2{
+    margin-top: 30px;
+    width: 500px;
+    float: right;
+}
+.dash2 img{
+    width: 450px;
+}
+.descDash{
+    width: 100%;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100%;   
+}
+
+

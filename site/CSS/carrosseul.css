@@ -1,0 +1,32 @@
+.divIntegrantes{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+
+}
+.divIntegrantes label{
+    padding-top: 10px;;
+    color: black;
+}
+
+.carousel{
+    background-image: url("../Imagens/design.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 70px;
+    
+}
+.carousel-inner img{
+    margin-top: 30px;
+    padding-bottom: 30px;
+    width: 320px;
+    
+}
+.item{
+    width: 25%;
+    margin-left: 37.5%;
+    
+}
+
+
+  

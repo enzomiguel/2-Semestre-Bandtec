@@ -1,0 +1,51 @@
+
+.contatos{
+    float: left;
+    width: 55%;
+    margin-left: 2vw;
+}
+.contatos p{
+    margin: 0 0 0.5vw 0;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+.contatos span{
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 0vh;
+    font-weight: bolder;
+}
+.end{
+    float: left;
+    width: 50%;
+}
+.tel{
+    float: left;
+    width: 50%;
+}
+.contatos img{
+    width: 3vh;
+}
+.logofinal{
+    float: left;
+    width: 90px;
+    height: 70px;
+    border-right-style: solid;
+    border-right-width: 1px;
+}
+.logoviss{
+    margin-top: 2vh;
+    font-family: 'Monoton', cursive;
+    font-size: 30px;
+    margin-right: 1vw;
+}
+.redes{
+    float: right;
+    width: 20vw;
+}
+.redes img{
+    margin-top: 15px;
+   width: 30px;
+   
+}
